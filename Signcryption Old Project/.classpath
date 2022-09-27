@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="E:/Softwares/Java/crypto-148/zips/cldc_bccore_classes.zip"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
